@@ -1,2 +1,3 @@
 # HiGitFlow
-experimenting with Git Flow
+experimenting with Git Flow,
+trying things with Git flow.
